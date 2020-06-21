@@ -2,7 +2,7 @@
     "name": "Fx Calculator",
     "short_name": "Fx Calc",
     "display": "standalone",
-    "start_url": "/?source=pwa",
+    "start_url": "https://mary-friedl.github.io/fx-calculator/",
     "scope": "/",
     "background_color": "#cfc",
     "theme_color": "#cfc",
