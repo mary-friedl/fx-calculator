@@ -2,7 +2,7 @@
     "name": "Fx Calculator",
     "short_name": "Fx Calc",
     "display": "standalone",
-    "start_url": ".",
+    "start_url": "/?source=pwa",
     "scope": "/",
     "background_color": "#cfc",
     "theme_color": "#cfc",
